@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I would like to welcome you to my repository where I will showcase my skills and projects.
+
+I am currently pursuing my studies in Data Science and looking for future project collaborations.
+
+Kind regards,
+
+Marinela Berea
+
 <!--
 **marinela-gif/marinela-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
